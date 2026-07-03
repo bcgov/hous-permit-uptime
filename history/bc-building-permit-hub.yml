@@ -1,7 +1,7 @@
 url: https://buildingpermit.gov.bc.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-02T23:35:16.897Z
+status: up
+code: 200
+responseTime: 328
+lastUpdated: 2026-07-03T01:26:50.036Z
 startTime: 2026-06-29T15:40:43.461Z
 generator: Upptime <https://github.com/upptime/upptime>
