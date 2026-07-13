@@ -4,17 +4,17 @@
     "url": "https://buildingpermit.gov.bc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/buildingpermit.gov.bc.ca.ico",
     "slug": "bc-building-permit-hub",
-    "status": "down",
-    "uptime": "91.53%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "92.60%",
-    "uptimeMonth": "91.53%",
-    "uptimeYear": "91.53%",
-    "time": 405,
-    "timeDay": 502,
-    "timeWeek": 408,
-    "timeMonth": 405,
-    "timeYear": 405,
+    "status": "up",
+    "uptime": "91.45%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "92.43%",
+    "uptimeMonth": "91.45%",
+    "uptimeYear": "91.45%",
+    "time": 406,
+    "timeDay": 497,
+    "timeWeek": 410,
+    "timeMonth": 406,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2026-06-29": 81,
       "2026-06-30": 261,
@@ -30,7 +30,7 @@
       "2026-07-10": 80,
       "2026-07-11": 132,
       "2026-07-12": 63,
-      "2026-07-13": 59
+      "2026-07-13": 77
     }
   }
 ]
