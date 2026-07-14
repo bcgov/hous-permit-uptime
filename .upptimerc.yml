@@ -22,10 +22,10 @@ sites:
     url: https://epsg.io/4326.json
 
   - name: "External Service: Archistar Platform (Canada)"
-    url: https://status.archistar.ai/
+    url: https://status.archistar.ai/api/v2/components/nltw0ymw9qx0.json
     expectedStatusCodes:
       - 200
-    __dangerous__body_down_if_text_missing: "Archistar Platform - Canada Operational"
+    __dangerous__body_down_if_text_missing: '"status":"operational"'
 
   - name: "External Dependencies: Keycloak Authentication"
     url: https://status.loginproxy.gov.bc.ca/statuspage/sso-keycloak-uptime/5830615
