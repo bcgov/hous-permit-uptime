@@ -113,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.archistar.ai.ico",
     "slug": "external-service-archistar-platform-canada",
     "status": "up",
-    "uptime": "4.12%",
-    "uptimeDay": "4.12%",
-    "uptimeWeek": "4.12%",
-    "uptimeMonth": "4.12%",
-    "uptimeYear": "4.12%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 168,
     "timeDay": 168,
     "timeWeek": 168,
     "timeMonth": 168,
     "timeYear": 168,
-    "dailyMinutesDown": {
-      "2026-07-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "External Dependencies: Keycloak Authentication",
