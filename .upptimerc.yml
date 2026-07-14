@@ -21,19 +21,13 @@ sites:
   - name: "External Dependencies: EPSG Registry"
     url: https://epsg.io/4326.json
 
-  - name: "External Dependencies: Archistar eCheck Canada"
-    url: https://status.archistar.ai/api/v2/components/COMPONENT_ID.json
+  - name: "External Service: Archistar Platform (Canada)"
+    url: https://status.archistar.ai/
     expectedStatusCodes:
       - 200
-    __dangerous__body_down_if_text_missing: '"status":"operational"'
+    __dangerous__body_down_if_text_missing: "Archistar Platform - Canada Operational"
 
-  - name: "External Dependencies:Keycloak Authentication 1"
-    url: https://status.loginproxy.gov.bc.ca/statuspage/sso-keycloak-uptime/5830615
-    expectedStatusCodes:
-      - 200
-    __dangerous__body_down_if_text_missing: "Current Status: Up"
-
-  - name: "External Dependencies: Keycloak Authentication 2"
+  - name: "External Dependencies: Keycloak Authentication"
     url: https://status.loginproxy.gov.bc.ca/statuspage/sso-keycloak-uptime/5830615
     expectedStatusCodes:
       - 200
