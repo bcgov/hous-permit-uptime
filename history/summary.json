@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/buildingpermit.gov.bc.ca.ico",
     "slug": "building-permit-hub",
     "status": "up",
-    "uptime": "87.56%",
-    "uptimeDay": "87.56%",
-    "uptimeWeek": "87.56%",
-    "uptimeMonth": "87.56%",
-    "uptimeYear": "87.56%",
+    "uptime": "88.08%",
+    "uptimeDay": "88.08%",
+    "uptimeWeek": "88.08%",
+    "uptimeMonth": "88.08%",
+    "uptimeYear": "88.08%",
     "time": 427,
     "timeDay": 427,
     "timeWeek": 427,
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/geocoder.api.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-address-geocoder",
     "status": "up",
-    "uptime": "93.35%",
-    "uptimeDay": "93.35%",
-    "uptimeWeek": "93.35%",
-    "uptimeMonth": "93.35%",
-    "uptimeYear": "93.35%",
+    "uptime": "96.43%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "96.43%",
     "time": 586,
     "timeDay": 586,
     "timeWeek": 586,
     "timeMonth": 586,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2026-07-14": 34
+      "2026-07-14": 19
     }
   },
   {
@@ -63,19 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
     "status": "up",
-    "uptime": "98.05%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "98.05%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 282,
     "timeDay": 282,
     "timeWeek": 282,
     "timeMonth": 282,
     "timeYear": 282,
-    "dailyMinutesDown": {
-      "2026-07-14": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "External Dependencies: BC Admin Boundaries",
@@ -83,20 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/delivery.maps.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-admin-boundaries",
     "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 280,
     "timeDay": 280,
     "timeWeek": 280,
     "timeMonth": 280,
     "timeYear": 280,
-    "dailyMinutesDown": {
-      "2026-07-15": 0,
-      "2026-07-14": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "External Dependencies: EPSG Registry",
