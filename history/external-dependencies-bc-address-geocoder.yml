@@ -1,7 +1,7 @@
 url: https://geocoder.api.gov.bc.ca/sites
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-20T01:03:58.358Z
+status: up
+code: 200
+responseTime: 345
+lastUpdated: 2026-07-20T03:04:59.732Z
 startTime: 2026-07-14T15:41:26.495Z
 generator: Upptime <https://github.com/upptime/upptime>
