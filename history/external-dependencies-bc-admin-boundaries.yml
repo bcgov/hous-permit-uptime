@@ -1,7 +1,7 @@
 url: https://delivery.maps.gov.bc.ca/arcgis/rest/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-21T02:51:17.032Z
+status: up
+code: 200
+responseTime: 325
+lastUpdated: 2026-07-21T03:47:51.293Z
 startTime: 2026-07-14T15:41:27.627Z
 generator: Upptime <https://github.com/upptime/upptime>
