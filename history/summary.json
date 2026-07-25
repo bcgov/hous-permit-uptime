@@ -4,17 +4,17 @@
     "url": "https://buildingpermit.gov.bc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/buildingpermit.gov.bc.ca.ico",
     "slug": "building-permit-hub",
-    "status": "down",
-    "uptime": "94.21%",
-    "uptimeDay": "94.30%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "94.21%",
-    "uptimeYear": "94.21%",
-    "time": 347,
-    "timeDay": 437,
-    "timeWeek": 337,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "status": "up",
+    "uptime": "94.15%",
+    "uptimeDay": "93.53%",
+    "uptimeWeek": "94.59%",
+    "uptimeMonth": "94.15%",
+    "uptimeYear": "94.15%",
+    "time": 348,
+    "timeDay": 426,
+    "timeWeek": 340,
+    "timeMonth": 348,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2026-07-14": 61,
       "2026-07-15": 107,
@@ -27,7 +27,7 @@
       "2026-07-22": 24,
       "2026-07-23": 71,
       "2026-07-24": 25,
-      "2026-07-25": 57
+      "2026-07-25": 68
     }
   },
   {
@@ -35,35 +35,37 @@
     "url": "https://status.loginproxy.gov.bc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/status.loginproxy.gov.bc.ca.ico",
     "slug": "external-dependencies-authentication-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 434,
     "timeDay": 484,
     "timeWeek": 453,
     "timeMonth": 434,
     "timeYear": 434,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-25": 5
+    }
   },
   {
     "name": "External Dependencies: BC Address Geocoder",
     "url": "https://geocoder.api.gov.bc.ca/sites",
     "icon": "https://icons.duckduckgo.com/ip3/geocoder.api.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-address-geocoder",
-    "status": "down",
-    "uptime": "95.13%",
-    "uptimeDay": "93.86%",
-    "uptimeWeek": "95.14%",
-    "uptimeMonth": "95.13%",
-    "uptimeYear": "95.13%",
-    "time": 560,
-    "timeDay": 530,
-    "timeWeek": 603,
-    "timeMonth": 560,
-    "timeYear": 560,
+    "status": "up",
+    "uptime": "95.04%",
+    "uptimeDay": "92.75%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "95.04%",
+    "uptimeYear": "95.04%",
+    "time": 557,
+    "timeDay": 511,
+    "timeWeek": 595,
+    "timeMonth": 557,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2026-07-14": 19,
       "2026-07-15": 92,
@@ -76,7 +78,7 @@
       "2026-07-22": 19,
       "2026-07-23": 61,
       "2026-07-24": 41,
-      "2026-07-25": 48
+      "2026-07-25": 64
     }
   },
   {
@@ -84,17 +86,17 @@
     "url": "https://maps.gov.bc.ca/arcserver/rest/",
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
-    "status": "down",
-    "uptime": "97.27%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "97.27%",
-    "uptimeYear": "97.27%",
-    "time": 236,
-    "timeDay": 280,
+    "status": "up",
+    "uptime": "97.17%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.17%",
+    "time": 235,
+    "timeDay": 269,
     "timeWeek": 230,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2026-07-15": 59,
       "2026-07-16": 75,
@@ -103,7 +105,7 @@
       "2026-07-21": 77,
       "2026-07-23": 39,
       "2026-07-24": 16,
-      "2026-07-25": 38
+      "2026-07-25": 54
     }
   },
   {
@@ -112,11 +114,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/delivery.maps.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-admin-boundaries",
     "status": "up",
-    "uptime": "97.58%",
+    "uptime": "97.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.82%",
-    "uptimeMonth": "97.58%",
-    "uptimeYear": "97.58%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "97.59%",
     "time": 410,
     "timeDay": 245,
     "timeWeek": 576,
@@ -154,19 +156,19 @@
     "url": "https://status.archistar.ai/api/v2/components/nltw0ymw9qx0.json",
     "icon": "https://icons.duckduckgo.com/ip3/status.archistar.ai.ico",
     "slug": "external-service-archistar-platform-canada",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 203,
-    "timeWeek": 296,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 291,
+    "timeDay": 252,
+    "timeWeek": 302,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2026-07-25": 0
+      "2026-07-25": 16
     }
   },
   {
@@ -174,9 +176,9 @@
     "url": "https://status.loginproxy.gov.bc.ca/statuspage/sso-keycloak-uptime/5830615",
     "icon": "https://icons.duckduckgo.com/ip3/status.loginproxy.gov.bc.ca.ico",
     "slug": "external-dependencies-keycloak-authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -185,6 +187,8 @@
     "timeWeek": 531,
     "timeMonth": 509,
     "timeYear": 509,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-25": 0
+    }
   }
 ]
