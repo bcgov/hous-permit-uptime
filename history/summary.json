@@ -4,12 +4,12 @@
     "url": "https://buildingpermit.gov.bc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/buildingpermit.gov.bc.ca.ico",
     "slug": "building-permit-hub",
-    "status": "up",
-    "uptime": "94.19%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "94.46%",
-    "uptimeMonth": "94.19%",
-    "uptimeYear": "94.19%",
+    "status": "down",
+    "uptime": "94.11%",
+    "uptimeDay": "96.64%",
+    "uptimeWeek": "94.32%",
+    "uptimeMonth": "94.11%",
+    "uptimeYear": "94.11%",
     "time": 342,
     "timeDay": 399,
     "timeWeek": 323,
@@ -27,7 +27,7 @@
       "2026-07-22": 24,
       "2026-07-23": 71,
       "2026-07-24": 25,
-      "2026-07-25": 10
+      "2026-07-25": 24
     }
   },
   {
@@ -54,11 +54,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/geocoder.api.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-address-geocoder",
     "status": "down",
-    "uptime": "95.14%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "94.94%",
-    "uptimeMonth": "95.14%",
-    "uptimeYear": "95.14%",
+    "uptime": "95.05%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "94.80%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "95.05%",
     "time": 555,
     "timeDay": 454,
     "timeWeek": 582,
@@ -76,7 +76,7 @@
       "2026-07-22": 19,
       "2026-07-23": 61,
       "2026-07-24": 41,
-      "2026-07-25": 5
+      "2026-07-25": 19
     }
   },
   {
@@ -85,11 +85,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
     "status": "down",
-    "uptime": "97.37%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "97.44%",
-    "uptimeMonth": "97.37%",
-    "uptimeYear": "97.37%",
+    "uptime": "97.28%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "97.28%",
     "time": 231,
     "timeDay": 234,
     "timeWeek": 217,
@@ -103,7 +103,7 @@
       "2026-07-21": 77,
       "2026-07-23": 39,
       "2026-07-24": 16,
-      "2026-07-25": 0
+      "2026-07-25": 14
     }
   },
   {
@@ -112,11 +112,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/delivery.maps.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-admin-boundaries",
     "status": "up",
-    "uptime": "97.44%",
+    "uptime": "97.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.52%",
-    "uptimeMonth": "97.44%",
-    "uptimeYear": "97.44%",
+    "uptimeMonth": "97.45%",
+    "uptimeYear": "97.45%",
     "time": 410,
     "timeDay": 245,
     "timeWeek": 535,
