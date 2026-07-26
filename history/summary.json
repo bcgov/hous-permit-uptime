@@ -4,15 +4,15 @@
     "url": "https://buildingpermit.gov.bc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/buildingpermit.gov.bc.ca.ico",
     "slug": "building-permit-hub",
-    "status": "up",
-    "uptime": "93.93%",
-    "uptimeDay": "93.54%",
-    "uptimeWeek": "94.58%",
-    "uptimeMonth": "93.93%",
-    "uptimeYear": "93.93%",
+    "status": "down",
+    "uptime": "93.98%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "94.49%",
+    "uptimeMonth": "93.98%",
+    "uptimeYear": "93.98%",
     "time": 346,
-    "timeDay": 358,
-    "timeWeek": 346,
+    "timeDay": 507,
+    "timeWeek": 348,
     "timeMonth": 346,
     "timeYear": 346,
     "dailyMinutesDown": {
@@ -28,7 +28,7 @@
       "2026-07-23": 71,
       "2026-07-24": 25,
       "2026-07-25": 183,
-      "2026-07-26": 20
+      "2026-07-26": 30
     }
   },
   {
@@ -42,11 +42,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 428,
-    "timeDay": 419,
-    "timeWeek": 438,
-    "timeMonth": 428,
-    "timeYear": 428,
+    "time": 470,
+    "timeDay": 1096,
+    "timeWeek": 505,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2026-07-25": 22
     }
@@ -56,15 +56,15 @@
     "url": "https://geocoder.api.gov.bc.ca/sites",
     "icon": "https://icons.duckduckgo.com/ip3/geocoder.api.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-address-geocoder",
-    "status": "up",
-    "uptime": "94.92%",
-    "uptimeDay": "95.39%",
-    "uptimeWeek": "95.07%",
-    "uptimeMonth": "94.92%",
-    "uptimeYear": "94.92%",
+    "status": "down",
+    "uptime": "94.97%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "94.97%",
+    "uptimeYear": "94.97%",
     "time": 543,
-    "timeDay": 461,
-    "timeWeek": 615,
+    "timeDay": 631,
+    "timeWeek": 622,
     "timeMonth": 543,
     "timeYear": 543,
     "dailyMinutesDown": {
@@ -80,7 +80,7 @@
       "2026-07-23": 61,
       "2026-07-24": 41,
       "2026-07-25": 152,
-      "2026-07-26": 15
+      "2026-07-26": 20
     }
   },
   {
@@ -88,15 +88,15 @@
     "url": "https://maps.gov.bc.ca/arcserver/rest/",
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
-    "status": "up",
-    "uptime": "96.93%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "97.27%",
-    "uptimeMonth": "96.93%",
-    "uptimeYear": "96.93%",
+    "status": "down",
+    "uptime": "97.04%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "97.37%",
+    "uptimeMonth": "97.04%",
+    "uptimeYear": "97.04%",
     "time": 236,
-    "timeDay": 257,
-    "timeWeek": 242,
+    "timeDay": 426,
+    "timeWeek": 244,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
@@ -108,7 +108,7 @@
       "2026-07-23": 39,
       "2026-07-24": 16,
       "2026-07-25": 132,
-      "2026-07-26": 10
+      "2026-07-26": 0
     }
   },
   {
@@ -117,16 +117,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/delivery.maps.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-admin-boundaries",
     "status": "up",
-    "uptime": "97.82%",
+    "uptime": "97.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.34%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "97.82%",
-    "time": 402,
-    "timeDay": 131,
-    "timeWeek": 239,
-    "timeMonth": 402,
-    "timeYear": 402,
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "97.85%",
+    "time": 400,
+    "timeDay": 309,
+    "timeWeek": 241,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2026-07-15": 66,
       "2026-07-16": 66,
@@ -147,11 +147,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 158,
-    "timeWeek": 124,
-    "timeMonth": 179,
-    "timeYear": 179,
+    "time": 181,
+    "timeDay": 210,
+    "timeWeek": 140,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   },
   {
@@ -165,11 +165,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 304,
-    "timeDay": 480,
-    "timeWeek": 318,
-    "timeMonth": 304,
-    "timeYear": 304,
+    "time": 320,
+    "timeDay": 566,
+    "timeWeek": 343,
+    "timeMonth": 320,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2026-07-25": 16
     }
@@ -185,11 +185,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 515,
-    "timeDay": 587,
-    "timeWeek": 533,
-    "timeMonth": 515,
-    "timeYear": 515,
+    "time": 586,
+    "timeDay": 1579,
+    "timeWeek": 661,
+    "timeMonth": 586,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2026-07-25": 17
     }
