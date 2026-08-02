@@ -4,12 +4,12 @@
     "url": "https://buildingpermit.gov.bc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/buildingpermit.gov.bc.ca.ico",
     "slug": "building-permit-hub",
-    "status": "up",
-    "uptime": "94.23%",
-    "uptimeDay": "91.31%",
-    "uptimeWeek": "95.18%",
-    "uptimeMonth": "94.23%",
-    "uptimeYear": "94.23%",
+    "status": "down",
+    "uptime": "94.20%",
+    "uptimeDay": "90.63%",
+    "uptimeWeek": "95.08%",
+    "uptimeMonth": "94.20%",
+    "uptimeYear": "94.20%",
     "time": 331,
     "timeDay": 308,
     "timeWeek": 306,
@@ -34,7 +34,8 @@
       "2026-07-29": 47,
       "2026-07-30": 23,
       "2026-07-31": 96,
-      "2026-08-01": 125
+      "2026-08-01": 125,
+      "2026-08-02": 10
     }
   },
   {
@@ -62,12 +63,12 @@
     "url": "https://geocoder.api.gov.bc.ca/sites",
     "icon": "https://icons.duckduckgo.com/ip3/geocoder.api.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-address-geocoder",
-    "status": "up",
-    "uptime": "95.23%",
-    "uptimeDay": "92.65%",
-    "uptimeWeek": "96.15%",
-    "uptimeMonth": "95.23%",
-    "uptimeYear": "95.23%",
+    "status": "down",
+    "uptime": "95.22%",
+    "uptimeDay": "92.30%",
+    "uptimeWeek": "96.10%",
+    "uptimeMonth": "95.22%",
+    "uptimeYear": "95.22%",
     "time": 484,
     "timeDay": 390,
     "timeWeek": 355,
@@ -92,7 +93,8 @@
       "2026-07-29": 37,
       "2026-07-30": 18,
       "2026-07-31": 87,
-      "2026-08-01": 106
+      "2026-08-01": 106,
+      "2026-08-02": 5
     }
   },
   {
@@ -100,12 +102,12 @@
     "url": "https://maps.gov.bc.ca/arcserver/rest/",
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
-    "status": "up",
-    "uptime": "96.83%",
-    "uptimeDay": "93.08%",
-    "uptimeWeek": "96.90%",
-    "uptimeMonth": "96.83%",
-    "uptimeYear": "96.83%",
+    "status": "down",
+    "uptime": "96.84%",
+    "uptimeDay": "93.07%",
+    "uptimeWeek": "96.89%",
+    "uptimeMonth": "96.84%",
+    "uptimeYear": "96.84%",
     "time": 302,
     "timeDay": 395,
     "timeWeek": 427,
@@ -124,7 +126,8 @@
       "2026-07-28": 64,
       "2026-07-29": 43,
       "2026-07-31": 64,
-      "2026-08-01": 100
+      "2026-08-01": 100,
+      "2026-08-02": 0
     }
   },
   {
