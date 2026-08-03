@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/buildingpermit.gov.bc.ca.ico",
     "slug": "building-permit-hub",
     "status": "down",
-    "uptime": "94.10%",
-    "uptimeDay": "91.77%",
-    "uptimeWeek": "94.21%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "94.10%",
+    "uptime": "94.00%",
+    "uptimeDay": "89.82%",
+    "uptimeWeek": "94.19%",
+    "uptimeMonth": "94.00%",
+    "uptimeYear": "94.00%",
     "time": 337,
     "timeDay": 462,
-    "timeWeek": 308,
+    "timeWeek": 310,
     "timeMonth": 337,
     "timeYear": 337,
     "dailyMinutesDown": {
@@ -35,7 +35,8 @@
       "2026-07-30": 23,
       "2026-07-31": 96,
       "2026-08-01": 125,
-      "2026-08-02": 118
+      "2026-08-02": 118,
+      "2026-08-03": 28
     }
   },
   {
@@ -64,14 +65,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/geocoder.api.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-address-geocoder",
     "status": "down",
-    "uptime": "95.10%",
-    "uptimeDay": "92.78%",
-    "uptimeWeek": "95.27%",
-    "uptimeMonth": "95.10%",
-    "uptimeYear": "95.10%",
+    "uptime": "95.01%",
+    "uptimeDay": "90.83%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "95.01%",
+    "uptimeYear": "95.01%",
     "time": 491,
     "timeDay": 635,
-    "timeWeek": 377,
+    "timeWeek": 376,
     "timeMonth": 491,
     "timeYear": 491,
     "dailyMinutesDown": {
@@ -94,7 +95,8 @@
       "2026-07-30": 18,
       "2026-07-31": 87,
       "2026-08-01": 106,
-      "2026-08-02": 104
+      "2026-08-02": 104,
+      "2026-08-03": 28
     }
   },
   {
@@ -103,14 +105,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
     "status": "down",
-    "uptime": "96.67%",
-    "uptimeDay": "93.79%",
-    "uptimeWeek": "96.01%",
-    "uptimeMonth": "96.67%",
-    "uptimeYear": "96.67%",
+    "uptime": "96.57%",
+    "uptimeDay": "91.83%",
+    "uptimeWeek": "95.90%",
+    "uptimeMonth": "96.57%",
+    "uptimeYear": "96.57%",
     "time": 304,
     "timeDay": 363,
-    "timeWeek": 427,
+    "timeWeek": 440,
     "timeMonth": 304,
     "timeYear": 304,
     "dailyMinutesDown": {
@@ -127,7 +129,8 @@
       "2026-07-29": 43,
       "2026-07-31": 64,
       "2026-08-01": 100,
-      "2026-08-02": 90
+      "2026-08-02": 90,
+      "2026-08-03": 28
     }
   },
   {
