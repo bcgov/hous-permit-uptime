@@ -4,17 +4,17 @@
     "url": "https://buildingpermit.gov.bc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/buildingpermit.gov.bc.ca.ico",
     "slug": "building-permit-hub",
-    "status": "down",
-    "uptime": "93.24%",
-    "uptimeDay": "87.22%",
+    "status": "up",
+    "uptime": "93.22%",
+    "uptimeDay": "86.62%",
     "uptimeWeek": "90.30%",
-    "uptimeMonth": "93.24%",
-    "uptimeYear": "93.24%",
-    "time": 349,
-    "timeDay": 529,
-    "timeWeek": 355,
-    "timeMonth": 349,
-    "timeYear": 349,
+    "uptimeMonth": "93.22%",
+    "uptimeYear": "93.22%",
+    "time": 353,
+    "timeDay": 554,
+    "timeWeek": 366,
+    "timeMonth": 353,
+    "timeYear": 353,
     "dailyMinutesDown": {
       "2026-07-14": 61,
       "2026-07-15": 107,
@@ -38,7 +38,7 @@
       "2026-08-02": 118,
       "2026-08-03": 324,
       "2026-08-05": 114,
-      "2026-08-06": 185
+      "2026-08-06": 194
     }
   },
   {
@@ -66,17 +66,17 @@
     "url": "https://geocoder.api.gov.bc.ca/sites",
     "icon": "https://icons.duckduckgo.com/ip3/geocoder.api.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-address-geocoder",
-    "status": "down",
-    "uptime": "94.20%",
-    "uptimeDay": "88.56%",
+    "status": "up",
+    "uptime": "94.18%",
+    "uptimeDay": "87.96%",
     "uptimeWeek": "91.16%",
-    "uptimeMonth": "94.20%",
-    "uptimeYear": "94.20%",
-    "time": 499,
-    "timeDay": 706,
-    "timeWeek": 466,
-    "timeMonth": 499,
-    "timeYear": 499,
+    "uptimeMonth": "94.18%",
+    "uptimeYear": "94.18%",
+    "time": 501,
+    "timeDay": 694,
+    "timeWeek": 473,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2026-07-14": 19,
       "2026-07-15": 92,
@@ -100,7 +100,7 @@
       "2026-08-02": 104,
       "2026-08-03": 309,
       "2026-08-05": 104,
-      "2026-08-06": 165
+      "2026-08-06": 174
     }
   },
   {
@@ -108,15 +108,15 @@
     "url": "https://maps.gov.bc.ca/arcserver/rest/",
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
-    "status": "down",
-    "uptime": "95.77%",
-    "uptimeDay": "89.91%",
-    "uptimeWeek": "92.63%",
-    "uptimeMonth": "95.77%",
-    "uptimeYear": "95.77%",
+    "status": "up",
+    "uptime": "95.74%",
+    "uptimeDay": "89.31%",
+    "uptimeWeek": "92.54%",
+    "uptimeMonth": "95.74%",
+    "uptimeYear": "95.74%",
     "time": 299,
-    "timeDay": 333,
-    "timeWeek": 287,
+    "timeDay": 334,
+    "timeWeek": 289,
     "timeMonth": 299,
     "timeYear": 299,
     "dailyMinutesDown": {
@@ -136,7 +136,7 @@
       "2026-08-02": 90,
       "2026-08-03": 294,
       "2026-08-05": 50,
-      "2026-08-06": 145
+      "2026-08-06": 154
     }
   },
   {
