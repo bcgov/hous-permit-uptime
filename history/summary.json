@@ -4,12 +4,12 @@
     "url": "https://buildingpermit.gov.bc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/buildingpermit.gov.bc.ca.ico",
     "slug": "building-permit-hub",
-    "status": "up",
-    "uptime": "93.54%",
-    "uptimeDay": "92.06%",
-    "uptimeWeek": "92.06%",
-    "uptimeMonth": "93.54%",
-    "uptimeYear": "93.54%",
+    "status": "down",
+    "uptime": "93.51%",
+    "uptimeDay": "91.38%",
+    "uptimeWeek": "91.96%",
+    "uptimeMonth": "93.51%",
+    "uptimeYear": "93.51%",
     "time": 345,
     "timeDay": 423,
     "timeWeek": 340,
@@ -37,7 +37,8 @@
       "2026-08-01": 125,
       "2026-08-02": 118,
       "2026-08-03": 324,
-      "2026-08-05": 114
+      "2026-08-05": 114,
+      "2026-08-06": 10
     }
   },
   {
@@ -65,12 +66,12 @@
     "url": "https://geocoder.api.gov.bc.ca/sites",
     "icon": "https://icons.duckduckgo.com/ip3/geocoder.api.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-address-geocoder",
-    "status": "up",
-    "uptime": "94.48%",
-    "uptimeDay": "92.74%",
-    "uptimeWeek": "92.78%",
-    "uptimeMonth": "94.48%",
-    "uptimeYear": "94.48%",
+    "status": "down",
+    "uptime": "94.47%",
+    "uptimeDay": "92.39%",
+    "uptimeWeek": "92.73%",
+    "uptimeMonth": "94.47%",
+    "uptimeYear": "94.47%",
     "time": 493,
     "timeDay": 571,
     "timeWeek": 440,
@@ -98,7 +99,8 @@
       "2026-08-01": 106,
       "2026-08-02": 104,
       "2026-08-03": 309,
-      "2026-08-05": 104
+      "2026-08-05": 104,
+      "2026-08-06": 5
     }
   },
   {
@@ -106,9 +108,9 @@
     "url": "https://maps.gov.bc.ca/arcserver/rest/",
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
-    "status": "up",
+    "status": "down",
     "uptime": "96.05%",
-    "uptimeDay": "96.51%",
+    "uptimeDay": "96.50%",
     "uptimeWeek": "94.07%",
     "uptimeMonth": "96.05%",
     "uptimeYear": "96.05%",
@@ -133,7 +135,8 @@
       "2026-08-01": 100,
       "2026-08-02": 90,
       "2026-08-03": 294,
-      "2026-08-05": 50
+      "2026-08-05": 50,
+      "2026-08-06": 0
     }
   },
   {
