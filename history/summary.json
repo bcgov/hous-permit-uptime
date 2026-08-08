@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/buildingpermit.gov.bc.ca.ico",
     "slug": "building-permit-hub",
     "status": "up",
-    "uptime": "93.40%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "91.13%",
-    "uptimeMonth": "93.40%",
-    "uptimeYear": "93.40%",
+    "uptime": "93.44%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "91.25%",
+    "uptimeMonth": "93.44%",
+    "uptimeYear": "93.44%",
     "time": 353,
     "timeDay": 347,
     "timeWeek": 395,
@@ -40,7 +40,7 @@
       "2026-08-05": 114,
       "2026-08-06": 194,
       "2026-08-07": 27,
-      "2026-08-08": 45
+      "2026-08-08": 33
     }
   },
   {
@@ -69,11 +69,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/geocoder.api.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-address-geocoder",
     "status": "up",
-    "uptime": "94.39%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "92.13%",
-    "uptimeMonth": "94.39%",
-    "uptimeYear": "94.39%",
+    "uptime": "94.41%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "92.20%",
+    "uptimeMonth": "94.41%",
+    "uptimeYear": "94.41%",
     "time": 504,
     "timeDay": 525,
     "timeWeek": 528,
@@ -104,7 +104,7 @@
       "2026-08-05": 104,
       "2026-08-06": 160,
       "2026-08-07": 22,
-      "2026-08-08": 36
+      "2026-08-08": 29
     }
   },
   {
@@ -113,11 +113,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
     "status": "up",
-    "uptime": "95.89%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "93.26%",
-    "uptimeMonth": "95.89%",
-    "uptimeYear": "95.89%",
+    "uptime": "95.90%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "93.28%",
+    "uptimeMonth": "95.90%",
+    "uptimeYear": "95.90%",
     "time": 294,
     "timeDay": 242,
     "timeWeek": 297,
@@ -142,7 +142,7 @@
       "2026-08-05": 50,
       "2026-08-06": 145,
       "2026-08-07": 17,
-      "2026-08-08": 26
+      "2026-08-08": 24
     }
   },
   {
@@ -195,21 +195,21 @@
     "url": "https://status.archistar.ai/api/v2/components/nltw0ymw9qx0.json",
     "icon": "https://icons.duckduckgo.com/ip3/status.archistar.ai.ico",
     "slug": "external-service-archistar-platform-canada",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 427,
-    "timeDay": 174,
-    "timeWeek": 287,
-    "timeMonth": 427,
-    "timeYear": 427,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 422,
+    "timeDay": 204,
+    "timeWeek": 285,
+    "timeMonth": 422,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2026-07-25": 16,
       "2026-07-28": 30,
-      "2026-08-08": 0
+      "2026-08-08": 22
     }
   },
   {
