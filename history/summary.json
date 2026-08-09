@@ -4,12 +4,12 @@
     "url": "https://buildingpermit.gov.bc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/buildingpermit.gov.bc.ca.ico",
     "slug": "building-permit-hub",
-    "status": "up",
-    "uptime": "93.59%",
-    "uptimeDay": "96.32%",
-    "uptimeWeek": "92.33%",
-    "uptimeMonth": "93.59%",
-    "uptimeYear": "93.59%",
+    "status": "down",
+    "uptime": "93.62%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "92.35%",
+    "uptimeMonth": "93.62%",
+    "uptimeYear": "93.62%",
     "time": 347,
     "timeDay": 262,
     "timeWeek": 380,
@@ -41,7 +41,7 @@
       "2026-08-06": 194,
       "2026-08-07": 27,
       "2026-08-08": 78,
-      "2026-08-09": 27
+      "2026-08-09": 26
     }
   },
   {
@@ -69,12 +69,12 @@
     "url": "https://geocoder.api.gov.bc.ca/sites",
     "icon": "https://icons.duckduckgo.com/ip3/geocoder.api.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-address-geocoder",
-    "status": "up",
-    "uptime": "94.63%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "93.49%",
-    "uptimeMonth": "94.63%",
-    "uptimeYear": "94.63%",
+    "status": "down",
+    "uptime": "94.66%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "94.66%",
+    "uptimeYear": "94.66%",
     "time": 495,
     "timeDay": 366,
     "timeWeek": 509,
@@ -106,7 +106,7 @@
       "2026-08-06": 160,
       "2026-08-07": 22,
       "2026-08-08": 49,
-      "2026-08-09": 7
+      "2026-08-09": 5
     }
   },
   {
@@ -114,12 +114,12 @@
     "url": "https://maps.gov.bc.ca/arcserver/rest/",
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
-    "status": "up",
-    "uptime": "96.07%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "94.56%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "96.07%",
+    "status": "down",
+    "uptime": "96.09%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "94.58%",
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "96.09%",
     "time": 287,
     "timeDay": 162,
     "timeWeek": 241,
@@ -145,7 +145,7 @@
       "2026-08-06": 145,
       "2026-08-07": 17,
       "2026-08-08": 39,
-      "2026-08-09": 2
+      "2026-08-09": 0
     }
   },
   {
