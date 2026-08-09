@@ -1,7 +1,7 @@
 url: https://status.archistar.ai/api/v2/components/nltw0ymw9qx0.json
-status: up
-code: 200
-responseTime: 344
-lastUpdated: 2026-08-08T23:23:14.758Z
+status: down
+code: 405
+responseTime: 40
+lastUpdated: 2026-08-09T02:26:34.249Z
 startTime: 2026-07-14T15:50:56.795Z
 generator: Upptime <https://github.com/upptime/upptime>
