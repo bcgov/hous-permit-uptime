@@ -4,15 +4,15 @@
     "url": "https://buildingpermit.gov.bc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/buildingpermit.gov.bc.ca.ico",
     "slug": "building-permit-hub",
-    "status": "up",
-    "uptime": "94.50%",
-    "uptimeDay": "96.82%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "94.53%",
-    "uptimeYear": "94.50%",
+    "status": "down",
+    "uptime": "94.53%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "94.54%",
+    "uptimeYear": "94.53%",
     "time": 356,
-    "timeDay": 345,
-    "timeWeek": 374,
+    "timeDay": 329,
+    "timeWeek": 372,
     "timeMonth": 351,
     "timeYear": 356,
     "dailyMinutesDown": {
@@ -47,7 +47,7 @@
       "2026-08-12": 31,
       "2026-08-13": 43,
       "2026-08-14": 56,
-      "2026-08-17": 46
+      "2026-08-17": 44
     }
   },
   {
@@ -75,15 +75,15 @@
     "url": "https://geocoder.api.gov.bc.ca/sites",
     "icon": "https://icons.duckduckgo.com/ip3/geocoder.api.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-address-geocoder",
-    "status": "up",
-    "uptime": "95.54%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "98.45%",
+    "status": "down",
+    "uptime": "95.56%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "98.57%",
     "uptimeMonth": "95.49%",
-    "uptimeYear": "95.54%",
+    "uptimeYear": "95.56%",
     "time": 494,
-    "timeDay": 434,
-    "timeWeek": 492,
+    "timeDay": 401,
+    "timeWeek": 484,
     "timeMonth": 488,
     "timeYear": 494,
     "dailyMinutesDown": {
@@ -117,7 +117,7 @@
       "2026-08-12": 26,
       "2026-08-13": 38,
       "2026-08-14": 15,
-      "2026-08-17": 7
+      "2026-08-17": 5
     }
   },
   {
@@ -125,15 +125,15 @@
     "url": "https://maps.gov.bc.ca/arcserver/rest/",
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
-    "status": "up",
-    "uptime": "96.74%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "98.90%",
+    "status": "down",
+    "uptime": "96.76%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.92%",
     "uptimeMonth": "96.69%",
-    "uptimeYear": "96.74%",
+    "uptimeYear": "96.76%",
     "time": 286,
-    "timeDay": 324,
-    "timeWeek": 282,
+    "timeDay": 236,
+    "timeWeek": 281,
     "timeMonth": 288,
     "timeYear": 286,
     "dailyMinutesDown": {
@@ -160,7 +160,7 @@
       "2026-08-12": 22,
       "2026-08-13": 33,
       "2026-08-16": 15,
-      "2026-08-17": 2
+      "2026-08-17": 0
     }
   },
   {
@@ -170,12 +170,12 @@
     "slug": "external-dependencies-bc-admin-boundaries",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "98.96%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.00%",
     "time": 391,
-    "timeDay": 901,
+    "timeDay": 178,
     "timeWeek": 457,
     "timeMonth": 423,
     "timeYear": 391,
