@@ -78,17 +78,17 @@
     "url": "https://geocoder.api.gov.bc.ca/sites",
     "icon": "https://icons.duckduckgo.com/ip3/geocoder.api.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-address-geocoder",
-    "status": "down",
-    "uptime": "96.12%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "96.37%",
-    "uptimeYear": "96.12%",
-    "time": 491,
-    "timeDay": 426,
-    "timeWeek": 479,
-    "timeMonth": 469,
-    "timeYear": 491,
+    "status": "up",
+    "uptime": "96.11%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "96.11%",
+    "time": 493,
+    "timeDay": 498,
+    "timeWeek": 484,
+    "timeMonth": 471,
+    "timeYear": 493,
     "dailyMinutesDown": {
       "2026-07-14": 19,
       "2026-07-15": 92,
@@ -121,7 +121,7 @@
       "2026-08-13": 38,
       "2026-08-14": 15,
       "2026-08-20": 22,
-      "2026-08-22": 5
+      "2026-08-22": 8
     }
   },
   {
@@ -129,17 +129,17 @@
     "url": "https://maps.gov.bc.ca/arcserver/rest/",
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
-    "status": "down",
+    "status": "up",
     "uptime": "97.16%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "97.12%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "97.11%",
     "uptimeYear": "97.16%",
-    "time": 279,
-    "timeDay": 221,
-    "timeWeek": 274,
-    "timeMonth": 290,
-    "timeYear": 279,
+    "time": 280,
+    "timeDay": 250,
+    "timeWeek": 275,
+    "timeMonth": 291,
+    "timeYear": 280,
     "dailyMinutesDown": {
       "2026-07-15": 59,
       "2026-07-16": 75,
@@ -165,7 +165,7 @@
       "2026-08-13": 33,
       "2026-08-16": 15,
       "2026-08-20": 17,
-      "2026-08-22": 0
+      "2026-08-22": 3
     }
   },
   {
