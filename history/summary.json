@@ -4,16 +4,16 @@
     "url": "https://buildingpermit.gov.bc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/buildingpermit.gov.bc.ca.ico",
     "slug": "building-permit-hub",
-    "status": "up",
-    "uptime": "95.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "95.72%",
-    "uptimeYear": "95.41%",
+    "status": "down",
+    "uptime": "95.40%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "95.80%",
+    "uptimeYear": "95.40%",
     "time": 357,
     "timeDay": 399,
     "timeWeek": 361,
-    "timeMonth": 362,
+    "timeMonth": 361,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2026-07-14": 61,
@@ -50,7 +50,8 @@
       "2026-08-17": 34,
       "2026-08-18": 26,
       "2026-08-20": 27,
-      "2026-08-21": 15
+      "2026-08-21": 15,
+      "2026-08-25": 10
     }
   },
   {
@@ -78,16 +79,16 @@
     "url": "https://geocoder.api.gov.bc.ca/sites",
     "icon": "https://icons.duckduckgo.com/ip3/geocoder.api.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-address-geocoder",
-    "status": "up",
-    "uptime": "96.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "96.65%",
-    "uptimeYear": "96.33%",
+    "status": "down",
+    "uptime": "96.32%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "96.74%",
+    "uptimeYear": "96.32%",
     "time": 492,
     "timeDay": 575,
     "timeWeek": 477,
-    "timeMonth": 474,
+    "timeMonth": 472,
     "timeYear": 492,
     "dailyMinutesDown": {
       "2026-07-14": 19,
@@ -120,7 +121,8 @@
       "2026-08-12": 26,
       "2026-08-13": 38,
       "2026-08-14": 15,
-      "2026-08-20": 22
+      "2026-08-20": 22,
+      "2026-08-25": 5
     }
   },
   {
@@ -128,16 +130,16 @@
     "url": "https://maps.gov.bc.ca/arcserver/rest/",
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
-    "status": "up",
-    "uptime": "97.31%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.32%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "97.24%",
-    "uptimeYear": "97.31%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.32%",
     "time": 278,
     "timeDay": 258,
     "timeWeek": 251,
-    "timeMonth": 291,
+    "timeMonth": 290,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2026-07-15": 59,
@@ -163,7 +165,8 @@
       "2026-08-12": 22,
       "2026-08-13": 33,
       "2026-08-16": 15,
-      "2026-08-20": 17
+      "2026-08-20": 17,
+      "2026-08-25": 0
     }
   },
   {
