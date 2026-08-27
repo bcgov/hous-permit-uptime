@@ -4,17 +4,17 @@
     "url": "https://buildingpermit.gov.bc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/buildingpermit.gov.bc.ca.ico",
     "slug": "building-permit-hub",
-    "status": "down",
-    "uptime": "95.45%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "95.95%",
-    "uptimeYear": "95.45%",
-    "time": 362,
-    "timeDay": 410,
-    "timeWeek": 391,
-    "timeMonth": 367,
-    "timeYear": 362,
+    "status": "up",
+    "uptime": "95.18%",
+    "uptimeDay": "86.57%",
+    "uptimeWeek": "96.42%",
+    "uptimeMonth": "95.53%",
+    "uptimeYear": "95.18%",
+    "time": 361,
+    "timeDay": 295,
+    "timeWeek": 382,
+    "timeMonth": 365,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2026-07-14": 61,
       "2026-07-15": 107,
@@ -53,7 +53,7 @@
       "2026-08-21": 15,
       "2026-08-25": 55,
       "2026-08-26": 97,
-      "2026-08-27": 10
+      "2026-08-27": 193
     }
   },
   {
@@ -69,8 +69,8 @@
     "uptimeYear": "99.96%",
     "time": 542,
     "timeDay": 209,
-    "timeWeek": 492,
-    "timeMonth": 582,
+    "timeWeek": 494,
+    "timeMonth": 590,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2026-07-25": 22
@@ -81,17 +81,17 @@
     "url": "https://geocoder.api.gov.bc.ca/sites",
     "icon": "https://icons.duckduckgo.com/ip3/geocoder.api.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-address-geocoder",
-    "status": "down",
-    "uptime": "96.38%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "96.38%",
-    "time": 499,
-    "timeDay": 567,
-    "timeWeek": 528,
-    "timeMonth": 485,
-    "timeYear": 499,
+    "status": "up",
+    "uptime": "96.10%",
+    "uptimeDay": "86.90%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "96.10%",
+    "time": 497,
+    "timeDay": 364,
+    "timeWeek": 518,
+    "timeMonth": 483,
+    "timeYear": 497,
     "dailyMinutesDown": {
       "2026-07-14": 19,
       "2026-07-15": 92,
@@ -126,7 +126,7 @@
       "2026-08-20": 22,
       "2026-08-25": 46,
       "2026-08-26": 67,
-      "2026-08-27": 5
+      "2026-08-27": 189
     }
   },
   {
@@ -134,17 +134,17 @@
     "url": "https://maps.gov.bc.ca/arcserver/rest/",
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
-    "status": "down",
-    "uptime": "97.37%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "97.47%",
-    "uptimeYear": "97.37%",
-    "time": 279,
-    "timeDay": 256,
-    "timeWeek": 271,
-    "timeMonth": 295,
-    "timeYear": 279,
+    "status": "up",
+    "uptime": "97.09%",
+    "uptimeDay": "87.24%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "97.05%",
+    "uptimeYear": "97.09%",
+    "time": 278,
+    "timeDay": 183,
+    "timeWeek": 266,
+    "timeMonth": 294,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2026-07-15": 59,
       "2026-07-16": 75,
@@ -172,7 +172,7 @@
       "2026-08-20": 17,
       "2026-08-25": 36,
       "2026-08-26": 41,
-      "2026-08-27": 0
+      "2026-08-27": 184
     }
   },
   {
@@ -188,8 +188,8 @@
     "uptimeYear": "99.23%",
     "time": 378,
     "timeDay": 243,
-    "timeWeek": 254,
-    "timeMonth": 357,
+    "timeWeek": 235,
+    "timeMonth": 359,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2026-07-15": 66,
@@ -217,8 +217,8 @@
     "uptimeYear": "100.00%",
     "time": 208,
     "timeDay": 164,
-    "timeWeek": 525,
-    "timeMonth": 222,
+    "timeWeek": 611,
+    "timeMonth": 223,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -235,8 +235,8 @@
     "uptimeYear": "99.45%",
     "time": 473,
     "timeDay": 390,
-    "timeWeek": 1012,
-    "timeMonth": 533,
+    "timeWeek": 1108,
+    "timeMonth": 538,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2026-07-25": 16,
@@ -260,8 +260,8 @@
     "uptimeYear": "99.97%",
     "time": 687,
     "timeDay": 354,
-    "timeWeek": 580,
-    "timeMonth": 739,
+    "timeWeek": 600,
+    "timeMonth": 746,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2026-07-25": 17
