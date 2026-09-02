@@ -2,39 +2,53 @@
 owner: bcgov # Your GitHub organization or username, where this repository lives
 repo: hous-permit-uptime # The name of this repository
 
+# Git commit attribution - use GitHub App
+commitAuthorName: "HOUS-Upptime-Status-Page"
+commitAuthorEmail: "github-actions[bot]@users.noreply.github.com"
+
 sites:
   - name:  Building Permit Hub
     url: https://buildingpermit.gov.bc.ca
-    
+    useGlobalping: true
+    retryInterval: 300
+
   - name: "External Dependencies: Authentication Service"
     url: https://status.loginproxy.gov.bc.ca/
+    retryInterval: 300
 
   - name: "External Dependencies: BC Address Geocoder"
     url: https://geocoder.api.gov.bc.ca/sites
+    retryInterval: 300
 
   - name: "External Dependencies: LTSA ParcelMap BC"
     url: https://maps.gov.bc.ca/arcserver/rest/
+    retryInterval: 300
 
   - name: "External Dependencies: BC Admin Boundaries"
     url: https://delivery.maps.gov.bc.ca/arcgis/rest/
-    
+    retryInterval: 300
+
   - name: "External Dependencies: EPSG Registry"
     url: https://epsg.io/4326.json
+    retryInterval: 300
 
   - name: "External Service: Archistar Platform (Canada)"
     url: https://status.archistar.ai/api/v2/components/nltw0ymw9qx0.json
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: '"status":"operational"'
+    retryInterval: 300
 
   - name: "External Dependencies: Keycloak Authentication"
     url: https://status.loginproxy.gov.bc.ca/statuspage/sso-keycloak-uptime/5830615
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: "Gold KeyCloak SSO Prod Service Uptime"
-      
+    retryInterval: 300
+
 assignees:
   - mymobanty
+  - smithskye
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
