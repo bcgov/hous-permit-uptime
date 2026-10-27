@@ -184,17 +184,17 @@
     "url": "https://delivery.maps.gov.bc.ca/arcgis/rest/",
     "icon": "https://icons.duckduckgo.com/ip3/delivery.maps.gov.bc.ca.ico",
     "slug": "external-dependencies-bc-admin-boundaries",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.68%",
-    "time": 345,
-    "timeDay": 1222,
-    "timeWeek": 536,
-    "timeMonth": 359,
-    "timeYear": 345,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.66%",
+    "time": 344,
+    "timeDay": 898,
+    "timeWeek": 504,
+    "timeMonth": 356,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2026-07-15": 66,
       "2026-07-16": 66,
@@ -206,7 +206,7 @@
       "2026-08-01": 39,
       "2026-08-10": 23,
       "2026-08-16": 15,
-      "2026-10-27": 0
+      "2026-10-27": 24
     }
   },
   {
