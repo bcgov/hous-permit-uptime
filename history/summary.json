@@ -232,17 +232,17 @@
     "url": "https://status.archistar.ai/api/v2/components/nltw0ymw9qx0.json",
     "icon": "https://icons.duckduckgo.com/ip3/status.archistar.ai.ico",
     "slug": "external-service-archistar-platform-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.68%",
-    "time": 1053,
-    "timeDay": 11440,
-    "timeWeek": 5868,
-    "timeMonth": 2830,
-    "timeYear": 1053,
+    "time": 1425,
+    "timeDay": 17017,
+    "timeWeek": 9299,
+    "timeMonth": 4191,
+    "timeYear": 1425,
     "dailyMinutesDown": {
       "2026-07-25": 16,
       "2026-07-28": 30,
@@ -255,7 +255,7 @@
       "2026-08-30": 38,
       "2026-09-08": 69,
       "2026-10-28": 9,
-      "2026-10-29": 8
+      "2026-10-29": 17
     }
   },
   {
