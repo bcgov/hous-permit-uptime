@@ -134,16 +134,16 @@
     "url": "https://maps.gov.bc.ca/arcserver/rest/",
     "icon": "https://icons.duckduckgo.com/ip3/maps.gov.bc.ca.ico",
     "slug": "external-dependencies-ltsa-parcel-map-bc",
-    "status": "down",
-    "uptime": "98.85%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "98.85%",
+    "status": "up",
+    "uptime": "98.84%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "98.84%",
     "time": 338,
-    "timeDay": 4755,
-    "timeWeek": 1780,
-    "timeMonth": 701,
+    "timeDay": 3602,
+    "timeWeek": 1616,
+    "timeMonth": 685,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2026-07-15": 59,
@@ -177,7 +177,7 @@
       "2026-09-07": 18,
       "2026-10-07": 23,
       "2026-10-25": 13,
-      "2026-11-08": 6
+      "2026-11-08": 37
     }
   },
   {
