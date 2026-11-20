@@ -1,7 +1,7 @@
 url: https://maps.gov.bc.ca/arcserver/rest/
-status: down
-code: 503
-responseTime: 1304
-lastUpdated: 2026-11-20T13:05:55.190Z
+status: up
+code: 200
+responseTime: 728
+lastUpdated: 2026-11-20T13:15:16.288Z
 startTime: 2026-07-14T15:41:27.158Z
 generator: Upptime <https://github.com/upptime/upptime>
